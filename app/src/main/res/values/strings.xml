@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android-Pizzeria</string>
+    <string name="pizza_quattro_formaggi">Quattro formaggi</string>
+    <string name="pizza_capricciosa">Capricciosa</string>
+    <string name="pizza_hawaiian">Hawaiian</string>
+    <string name="pizza_margherita">Margherita</string>
+
+    <string name="pizza_quattro_formaggi_image_url">https://kestepizzago.com/cdn/shop/files/QuattroFormaggi_800x.png?v=1684444690</string>
+    <string name="pizza_capricciosa_image_url">https://positano.lv/wp-content/uploads/2021/12/Capricciosa-1.png</string>
+    <string name="pizza_hawaiian_image_url">https://i0.wp.com/palms-restaurant.com.au/wp-content/uploads/2021/09/hawaiian.png?fit=600%2C600&amp;ssl=1</string>
+    <string name="pizza_margherita_image_url">https://static.vecteezy.com/system/resources/previews/008/541/871/original/margherita-pizza-baked-food-transparent-png.png</string>
+
+    <string name="size">Size</string>
+    <string name="small">Small 30 cm</string>
+    <string name="medium">Medium 60 cm</string>
+    <string name="large">Large 100 cm</string>
+    <string name="toppings">Toppings</string>
+    <string name="cheese">Cheese</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="mushrooms">Mushrooms</string>
+    <string name="corn">Corn</string>
+    <string name="next">Next</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="back">Back</string>
+</resources>

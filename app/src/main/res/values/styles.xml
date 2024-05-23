@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BootstrapLightSwitch" parent="ThemeOverlay.MaterialComponents.Light">
+        <item name="colorOnPrimary">@color/bootstrap_primary</item>
+        <item name="colorOnSecondary">@color/bootstrap_secondary</item>
+        <item name="colorOnSurface">@color/bootstrap_light</item>
+    </style>
+</resources>
